@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Card 1",
+        "image": "./assets/img1.jpeg",
+        "description": "This is the first card description."
+    },
+    {
+        "title": "Card 2",
+        "image": "./assets/img1.jpeg",
+        "description": "This is the second card description."
+    },
+    {
+        "title": "Card 3",
+        "image": "./assets/img1.jpeg",
+        "description": "This is the third card description."
+    },
+    {
+        "title": "Card 4",
+        "image": "./assets/img1.jpeg",
+        "description": "This is the fourth card description."
+    },
+    {
+        "title": "Card 5",
+        "image": "./assets/img1.jpeg",
+        "description": "This is the fifth card description."
+    },
+    {
+        "title": "Card 6",
+        "image": "./assets/img1.jpeg",
+        "description": "This is the sixth card description."
+    }
+]
